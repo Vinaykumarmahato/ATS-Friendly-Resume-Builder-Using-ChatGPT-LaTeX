@@ -230,7 +230,7 @@ Now we turn that code into a beautiful PDF.
 If this video and guide helped you, please:
 
   * **Star** this repository ⭐️
-  * **Subscribe** to [ADV Indian Coder on YouTube](https://www.google.com/search?q=https://www.youtube.com/YOUR_CHANNEL_LINK_HERE) 📺
+  * **Subscribe** to [ADV Indian Coder on YouTube](https://www.youtube.com/@ADVIndianCoder-i9y) 📺
   * **Share** the video with your friends\!
 
 <!-- end list -->
