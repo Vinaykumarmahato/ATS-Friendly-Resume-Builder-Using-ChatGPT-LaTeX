@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Vinaykumarmahato/ATS-Friendly-Resume-Builder-Using-ChatGPT-LaTeX/blob/main/Build%20Your%20ATS-Friendly%20Resume%20Tumbnail.png" alt="Build Your ATS-Friendly Resume Thumbnail" width="600">
+</p>
 
 # Video Guide: Build a Job-Winning ATS-Friendly Resume in 5 Minutes!
 
