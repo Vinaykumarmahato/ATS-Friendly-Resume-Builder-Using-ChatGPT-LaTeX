@@ -134,8 +134,8 @@ This is the most important step. We will ask ChatGPT to write the code for our r
     \textbf{\Large \scshape Data Analyst} \\ \vspace{4pt}
     \small \faPhone\ +91-9876XXXXXX ~ 
     \href{mailto:vinaykumar.data@gmail.com}{\faEnvelope\ \underline{vinaykumar.data@gmail.com}} ~ 
-    \href{[https://www.linkedin.com/in/vinay-kumar](https://www.linkedin.com/in/vinay-kumar)}{\faLinkedin\ \underline{[linkedin.com/in/vinay-kumar](https://linkedin.com/in/vinay-kumar)}} 
-</center}
+    \href{https://www.linkedin.com/in/vinay-kumar}{\faLinkedin\ \underline{linkedin.com/in/vinay-kumar}} 
+\end{center}
 
 %-----------SUMMARY-----------
 \section{Summary}
@@ -198,6 +198,7 @@ Data Analyst with a strong command over SQL, Python, and Power BI. Passionate ab
 \resumeSubHeadingListEnd
 
 \end{document}
+
 ````
 
 -----
