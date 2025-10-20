@@ -132,32 +132,32 @@ This is the most important step. We will ask ChatGPT to write the code for our r
 \begin{center}
     {\Huge \scshape Vinay Kumar} \\ \vspace{4pt}
     \textbf{\Large \scshape Data Analyst} \\ \vspace{4pt}
-    \small \faPhone\ +91-9876XXXXXX ~ 
-    \href{mailto:vinaykumar.data@gmail.com}{\faEnvelope\ \underline{vinaykumar.data@gmail.com}} ~ 
-    \href{https://www.linkedin.com/in/vinay-kumar}{\faLinkedin\ \underline{linkedin.com/in/vinay-kumar}} 
+    \small \faPhone\ +91-9919XXXXXX ~ 
+    \href{mailto:advindiancoder@gmail.com}{\faEnvelope\ \underline{advindiancoder@gmail.com}} ~ 
+    \href{https://www.linkedin.com/in/vinay-kumar860964/}{\faLinkedin\ \underline{linkedin.com/in/vinay-kumar860964}} 
 \end{center}
 
 %-----------SUMMARY-----------
 \section{Summary}
-Data Analyst with a strong command over SQL, Python, and Power BI. Passionate about transforming data into actionable insights and developing dashboards to support strategic decisions. Adept at solving business problems through analytical reasoning and visualization.
+Data Analyst with a strong foundation in SQL, Python, Excel, and Power BI. Skilled in cleaning, analyzing, and visualizing data to generate insights and support data-driven decision-making. Interested in collaborating on meaningful analytical work in fast-paced environments.
 
 %-----------SKILLS-----------
 \section{Skills}
-\textbf{Programming \& Querying:} Python, SQL \\ 
-\textbf{Visualization Tools:} Power BI, Tableau, Advanced Excel \\ 
-\textbf{Core Competencies:} Data Cleaning, EDA, KPI Reporting, Business Intelligence
+\textbf{Programming \& Querying:} SQL, Python  \\
+\textbf{Data Visualization Tools:} Advanced MS Excel, Power BI, Tableau \\
+\textbf{Analytical Abilities:} Data Cleaning, Exploratory Data Analysis (EDA), Insight Generation, Descriptive Statistics
 
-%-----------EXPERIENCE-----------
+%-----------INTERNSHIP-----------
 \section{Experience}
 \resumeSubHeadingListStart
   \resumeSubheading
-    {Data Analyst Intern}{Nov 2024 -- Present}
-    {Inoglle (ADV Indian Coder)}{Remote — Bengaluru, India}
+    {Data Analyst Intern}{April 2025 -- June 2025}
+    {Dataview Analytics (Remote)}{Tools Used: Excel, SQL, Power BI}
     \resumeItemListStart
-      \resumeItem{Analyzing datasets for digital initiatives under ADV Indian Coder’s ecosystem to identify audience patterns and engagement KPIs.}
-      \resumeItem{Designed Power BI dashboards to visualize project performance, student analytics, and training outcomes.}
-      \resumeItem{Automated weekly Excel reports using formulas and lookups, improving reporting efficiency by 35\%.}
-      \resumeItem{Collaborated with tech and marketing teams to define metrics that align data insights with organizational goals.}
+      \resumeItem{\textbf{Processed and standardized a dataset of over 1,00,000 rows} from multiple regions to support weekly analytics—enabled business teams to track KPIs across geography and time.}
+      \resumeItem{Designed smart Excel templates embedded with lookup functions and pivot logic, \textbf{saving 40\% reporting time across 4 departments.}}
+      \resumeItem{Developed and maintained Power BI dashboards to visualize revenue trends, customer mix, and monthly performance—regularly used by managers and analysts across business units.}
+      \resumeItem{Collaborated with 4 analysts and 2 senior managers to define and validate 6 KPIs, improving report reliability and strategic alignment.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
 
@@ -165,36 +165,37 @@ Data Analyst with a strong command over SQL, Python, and Power BI. Passionate ab
 \section{Projects}
 \resumeSubHeadingListStart
   \resumeProjectHeading
-      {\textbf{E-Commerce Sales Analysis Dashboard} $|$ \emph{Power BI, SQL}}{July 2024 -- Aug 2024}
+      {\textbf{Customer Churn Analysis} $|$ \emph{Python }}{March 2025 -- April 2025}
       \resumeItemListStart
-        \resumeItem{Developed a Power BI dashboard using sales data from multiple sources (CSV and SQL) to track daily, monthly, and product-wise revenue.}
-        \resumeItem{Identified top 10 performing products and regions contributing to 70\% of total sales.}
-        \resumeItem{Provided actionable insights that helped forecast upcoming quarter demand with 85\% accuracy.}
+        \resumeItem{\textbf{Analyzed behavior of 7,043 telecom customers} to identify churn patterns based on tenure, contract type, and monthly charges.}
+        \resumeItem{Engineered new features including contract type buckets and tenure bands to improve segmentation and insights.}
+        \resumeItem{Generated 11 visualizations (histograms, box plots, heatmaps) to highlight churn-prone segments.}
+        \resumeItem{Revealed that 38\% of churned users were on monthly contracts with less than 3-month tenure—suggested early engagement strategies.}
       \resumeItemListEnd
-
   \resumeProjectHeading
-      {\textbf{Netflix Data Insights Project} $|$ \emph{Python, Pandas, Matplotlib}}{May 2024 -- June 2024}
+      {\textbf{Sales Dashboard for Regional Performance} $|$ \emph{SQL, Power BI}}{February 2025 -- March 2025}
       \resumeItemListStart
-        \resumeItem{Performed exploratory data analysis on the Netflix dataset to uncover patterns in genres, ratings, and content production countries.}
-        \resumeItem{Visualized relationships between content type, release year, and viewer trends using Matplotlib and Seaborn.}
-        \resumeItem{Suggested data-driven strategies for enhancing recommendation models and improving user retention.}
+        \resumeItem{Queried and joined 3 sales-related tables covering over 25,000 rows across 12 months and 5 regions using optimized SQL joins to create consistent, analysis-ready datasets.}
+        \resumeItem{Built 10 dynamic measures and KPIs in Power BI to track regional sales, return trends, and product performance.}
+        \resumeItem{Designed multipage dashboards with slicers and filters, helping stakeholders drill down by region, product category, and time.}
+        \resumeItem{Detected a 14\% sales drop post-festival in the South region. Later, the insight was used for a marketing recovery plan.}
       \resumeItemListEnd
 \resumeSubHeadingListEnd
 
-%-----------AWARDS & CERTIFICATIONS-----------
+%-----------AWARDS-----------
 \section{Awards \& Certifications}
 \resumeItemListStart
-  \resumeItem{\textbf{Google Data Analytics Certificate – Coursera (2024):} Completed end-to-end projects using SQL, Excel, and Power BI.}
-  \resumeItem{\textbf{Excel for Business – Macquarie University (2023):} Specialized in Excel-based business analytics and reporting automation.}
-  \resumeItem{\textbf{Power BI Data Visualization Challenge – 2024:} Ranked in top 10 among 200+ participants.}
+  \resumeItem{\textbf{Google Data Analytics Certificate – Coursera (2024):} Completed 8 practical case studies involving SQL, data cleaning, dashboards, and presentations.}
+  \resumeItem{\textbf{Top 5\% in SQL Hackerrank Challenge – 2024:} Ranked among top 150 out of more than 3,000 participants for advanced SQL problem-solving.}
+  \resumeItem{\textbf{Best Final Year Project – 2025, Marwari College:} Built a Power BI dashboard analyzing academic performance across 6 departments over 3 years.}
 \resumeItemListEnd
 
 %-----------EDUCATION-----------
 \section{Education}
 \resumeSubHeadingListStart
   \resumeSubheading
-    {B.Tech in Information Technology}{Expected Graduation: 2026}
-    {Dhanalakshmi Srinivasan College of Engineering and Technology (DSCET)}{Kallakurichi, Tamil Nadu}
+    {B.Sc. Information Technology}{Graduated: 2025}
+    {Marwari College, Ranchi}{CGPA: 8.2 / 10}
 \resumeSubHeadingListEnd
 
 \end{document}
